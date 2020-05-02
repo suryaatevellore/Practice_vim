@@ -1,1 +1,4 @@
-The end is
+# Play with visual mode's o marker
+The end is near.
+
+Select from here to here.

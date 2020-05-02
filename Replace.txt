@@ -1,0 +1,7 @@
+Practice problem
+Typing in Insert mode extends the line. But in Replace mode
+the line length doesn't change.
+-> Make this sentence into the one below
+
+Typing in Insert mode extends the line, but in Replace mode
+the line length doesn't change.
